@@ -1,4 +1,3 @@
-<?php 
 # Laravel Interview Questions & Answers
 ## For 10 Years Experience Developer
 
